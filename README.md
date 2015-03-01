@@ -32,10 +32,7 @@ Using the components of Fast Fourier Transition such as bandwidth, frequency, an
 - Image Pixilation (FFT and Volume) 
 ( Getting Pixels: unsigned char *data = image.getPixels() )
 
-OF_IMAGE_GRAYSCALE:
-valA = data[index];
-
-OF_IMAGE_COLOR:
+- OF_IMAGE_COLOR:
 valR = data[index * 3];
 valG = data[index * 3 + 1];
 valB = data[index * 3 + 2];
