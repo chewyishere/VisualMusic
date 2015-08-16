@@ -1,6 +1,6 @@
 OFCOURSE VISUAL MUSIC SYLLABUS
 
-INTRODUCTION first week
+INTRODUCTION 
 -
  Listen and see…
 - What do you hear? Rhythm, Melody, Harmony, Dynamics, Timbre / Tone…
@@ -9,25 +9,25 @@ INTRODUCTION first week
 - What are the connections? 
 - Examples: Lilium | SjQ++ | Labuat - Paint a song | Metope - Rebird
 
-1.SOUND PLAY 2nd week
+1.SOUND PLAY 
 -
 - SoundPlayer
 - SoundPlayerMultiple
 -	SoundPlayerVideo 
 
-2.AUDIO INPUT 3rd week
+2.AUDIO INPUT
 -
 - ofSoundStream: generate sounds, input stream 
 - AudioIn(): microphone detection
 
-3.AUDIO SPECTRUM + VISUAL PROCESSING 4th week
+3.AUDIO SPECTRUM + VISUAL PROCESSING 
 -
 Using the components of Fast Fourier Transition such as bandwidth, frequency, and amplitude to create movements on graphics, images and videos. Make arbitrary choices for visualization.
 - Equalizer 
 - Graphics 
 - Image Distortion 
 
-4.PIXEL OPERATION 5th week
+4.PIXEL OPERATION 
 -
 - Image Pixilation (FFT and Volume) 
 ( Getting Pixels: unsigned char *data = image.getPixels() )
@@ -36,7 +36,7 @@ Using the components of Fast Fourier Transition such as bandwidth, frequency, an
 
 - Live Video(ofVideoGrabber)
 
-5.GENERATIVE SOUND / MIDI 6th week
+5.GENERATIVE SOUND / MIDI 
 -
 - Synthesis midi/OSC/Python/addons
 
